@@ -1,5 +1,5 @@
 # GPT_logs_QM_IS_Datenschutz
-# verwendeter prompt
+# verwendeter Prompt
 
 Analysiere ausschließlich die Unterlagen des aktuellen Unterrichtstags – also die hochgeladene Datei mit der höchsten Tag-Nummer im Dateinamen (TagX_…, z. B. Tag3_…). Erstelle daraus eine verständliche, prüfungsrelevante und klar strukturierte Lernzusammenfassung für Fachinformatiker für Systemintegration (FISI). Verwende frühere Tage (Tag1_, Tag2_, …) sowie vorhandene Gesprächsprotokolle (TagX_ChatGPT*) nur zum thematischen Abgleich, um Dopplungen zu vermeiden und Ergänzungen korrekt einzuarbeiten. Erstelle keine zusammenfassende Erzählung oder Rückblicke. Der Text soll ausschließlich fachlich erklärende Lerninhalte enthalten – klar gegliedert, neutral formuliert und ohne pädagogische Überleitungen oder Tagesvergleiche.
 
